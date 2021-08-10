@@ -1,0 +1,17 @@
+# CSC110 Fall 2020: Python libraries we'll be using in this project.
+
+# Testing and code checking
+pytest
+python-ta
+
+# Graphics and visualization
+plotly
+numpy==1.19.3
+matplotlib
+#1. First find the python38 folder
+#Example pathway
+#C:\Users\girish\AppData\Local\Programs\Python\Python38\Scripts
+#2. In the scripts folder, create a new text file and write "cmd" in it, save this file as local.bat
+#this is done so we can open the windows console
+#3. in the console enter ''pip install numpy==1.19.3''
+#This installs a version of numpy that works for our program as the latest version has a couple of bugs that havent been ironed out
