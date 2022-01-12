@@ -1,4 +1,4 @@
-"""CSC110 Fall 2020 Final Project, Extraction File
+"""Extraction File
 
 Copyright and Usage Information
 ===============================
