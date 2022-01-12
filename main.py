@@ -1,13 +1,7 @@
-"""CSC110 Fall 2020 Final Project, Main File
+"""Main File
 
 Copyright and Usage Information
 ===============================
-
-This file is provided solely for the personal and private use of Professors and TA's
-teaching CSC110 at the University of Toronto St. George campus. All forms of
-distribution of this code, whether as given or with any changes, are
-expressly prohibited. For more information on copyright for CSC110 materials,
-please consult the owners.
 
 This file is Copyright (c) 2020 Carson, Kowan, Girish, Howard
 """
