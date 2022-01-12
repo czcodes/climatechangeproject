@@ -1,4 +1,4 @@
-"""CSC110 Fall 2020 Final Project, Linear Regression
+"""Linear Regression
 
 Copyright and Usage Information
 ===============================
