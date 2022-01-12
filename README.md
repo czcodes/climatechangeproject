@@ -3,7 +3,7 @@
 Using Python and its numpy and linear_progression libraries, this project plots data about varying countries' carbon emissions over the years, and using linear 
 and polynomial regression it predicts their future emissions in the future. The objective of the project is to anticipate just how drastic future environmental changes must be in order to prevent climate crises, and to see how Canada is faring compared to the rest of the world in that regard. The project is runnable by downloading the files and libraries listed in requirements.txt and then running in the main file.
 
-## Project Products:
+## Screenshotted Examples
 
 ![Canada's Carbon Emissions (Linear)](https://user-images.githubusercontent.com/83887991/149047999-99d2cb39-1fbd-4074-b510-f15829661b06.png)
 ![Canada's Carbon Emissions (Polynomial)](https://user-images.githubusercontent.com/83887991/149047995-f4e87b21-0315-4c2f-a2b6-179219e4e35b.png)
